@@ -1,0 +1,12 @@
+{
+  "name": "pre-entrega-back-end-nodejs-2025",
+  "version": "1.0.0",
+  "description": "Pre-entrega NodeJS Talento Tech",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.js"
+  },
+  "author": "Pablo Agustin Espindola",
+  "license": "MIT",
+  "type": "module"
+}
